@@ -1,0 +1,18 @@
+<br> - para quebrar linha no <p>.
+
+&(+ código); - para símbolos especiais.
+
+&#x(+ código); - para adicionar emojis
+obs: códigos na emojipedia.
+
+<!--  -  para acrescentar uma observação que não aparece no site.
+
+&lt; less than (sinal de < que aparece no site)
+
+&gt; greather than (sinal de > que aparece no site)
+
+<title> é o nome que aparece na barrinha superior da tela.
+
+charset - UTF-8 é para languagem que tem acentuação.
+
+<h1>  é TITULO do texto no site
